@@ -1,0 +1,69 @@
+{
+  "price_prediction": {
+    "ARIMA": {
+      "mae": 26.530223821489233,
+      "mse": 976.6979516083998,
+      "rmse": 31.25216715058973,
+      "accuracy": 91.9919917913208
+    },
+    "SARIMA": {
+      "mae": 40.392577965931636,
+      "mse": 2201.0848536361773,
+      "rmse": 46.91572075153676,
+      "accuracy": 87.97838642408138
+    },
+    "Random Forest": {
+      "mae": NaN,
+      "mse": NaN,
+      "rmse": NaN,
+      "accuracy": 0
+    },
+    "XGBoost": {
+      "mae": NaN,
+      "mse": NaN,
+      "rmse": NaN,
+      "accuracy": 0
+    },
+    "LightGBM": {
+      "mae": NaN,
+      "mse": NaN,
+      "rmse": NaN,
+      "accuracy": 0
+    },
+    "CatBoost": {
+      "mae": NaN,
+      "mse": NaN,
+      "rmse": NaN,
+      "accuracy": 0
+    }
+  },
+  "sentiment_analysis": {
+    "TextBlob": {
+      "accuracy": 70.0,
+      "correct_predictions": 350,
+      "total_predictions": 500
+    },
+    "VADER": {
+      "accuracy": 0,
+      "correct_predictions": 0,
+      "total_predictions": 500
+    }
+  },
+  "recommendation": {
+    "KNN Recommender": {
+      "accuracy": 0,
+      "successful_recommendations": 0,
+      "total_recommendations": 0
+    }
+  },
+  "user_preference": {
+    "Basic Random Forest": {
+      "accuracy": 0,
+      "report": "Error: Object of type bool_ is not JSON serializable"
+    },
+    "Improved Random Forest": {
+      "accuracy": 0,
+      "report": "Error: Object of type bool_ is not JSON serializable"
+    }
+  }
+}

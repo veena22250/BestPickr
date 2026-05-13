@@ -1,0 +1,4103 @@
+
+[
+    {
+        "user_id": "093ffd43-d913-43f8-b241-0dbdac8913ad",
+        "name": "User_1",
+        "gender": "Female",
+        "age": 32,
+        "location": "Hyderabad",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "snacks",
+                    "personal care",
+                    "frozen food"
+                ],
+                "preferred_delivery_time": "night",
+                "price_sensitivity": "budget",
+                "discount_preference": true,
+                "delivery_speed_importance": "same-day",
+                "health_based_filters": [
+                    "organic",
+                    "gluten-free"
+                ],
+                "usual_order_size": "2\u20133 people",
+                "platforms_used": [
+                    "Swiggy Instamart",
+                    "Zepto"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Sedan",
+                "safety_importance": [
+                    "helmet",
+                    "driver verification"
+                ],
+                "min_driver_rating": 4.3,
+                "price_sensitivity": "medium",
+                "preferred_travel_times": [
+                    "6PM\u20138PM",
+                    "10AM\u201312PM"
+                ],
+                "travel_mode": "alone",
+                "usual_route": {
+                    "source_pincode": "560033",
+                    "destination_pincode": "560037"
+                },
+                "platform_preference": {
+                    "platform": "Ola",
+                    "reason": "Availability"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "books",
+                    "beauty",
+                    "fashion"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9358\u2013\u20b91532",
+                    "beauty": "\u20b9334\u2013\u20b9857",
+                    "home_essentials": "\u20b9657\u2013\u20b9893"
+                },
+                "min_rating_threshold": 3.7,
+                "product_type_preference": "branded",
+                "delivery_speed": "1-day",
+                "availability_flexibility": true,
+                "wishlist_brands": [
+                    "Nike",
+                    "Samsung",
+                    "Zara"
+                ],
+                "personalized_recommendations": false,
+                "price_prediction_interest": true,
+                "return_policy_sensitivity": "high"
+            }
+        }
+    },
+    {
+        "user_id": "4372bbe4-daab-408d-97cb-8cea8de855c0",
+        "name": "User_2",
+        "gender": "Female",
+        "age": 31,
+        "location": "Chennai",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "vegetables",
+                    "snacks",
+                    "frozen food"
+                ],
+                "preferred_delivery_time": "evening",
+                "price_sensitivity": "premium",
+                "discount_preference": false,
+                "delivery_speed_importance": "same-day",
+                "health_based_filters": [
+                    "organic",
+                    "gluten-free"
+                ],
+                "usual_order_size": "2\u20133 people",
+                "platforms_used": [
+                    "Swiggy Instamart",
+                    "BigBasket"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "SUV",
+                "safety_importance": [
+                    "driver verification",
+                    "SOS"
+                ],
+                "min_driver_rating": 3.7,
+                "price_sensitivity": "medium",
+                "preferred_travel_times": [
+                    "8AM\u201310AM",
+                    "9PM\u201311PM"
+                ],
+                "travel_mode": "alone",
+                "usual_route": {
+                    "source_pincode": "560018",
+                    "destination_pincode": "560050"
+                },
+                "platform_preference": {
+                    "platform": "Ola",
+                    "reason": "Better pricing"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "home essentials",
+                    "books",
+                    "electronics"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9957\u2013\u20b91216",
+                    "beauty": "\u20b9262\u2013\u20b9771",
+                    "home_essentials": "\u20b9646\u2013\u20b91037"
+                },
+                "min_rating_threshold": 3.3,
+                "product_type_preference": "budget",
+                "delivery_speed": "no hurry",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "Nike",
+                    "Samsung",
+                    "Apple"
+                ],
+                "personalized_recommendations": true,
+                "price_prediction_interest": true,
+                "return_policy_sensitivity": "low"
+            }
+        }
+    },
+    {
+        "user_id": "42e4cd74-8a56-47b5-abf6-f80bdbf99cfa",
+        "name": "User_3",
+        "gender": "Female",
+        "age": 33,
+        "location": "Mumbai",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "frozen food",
+                    "dairy",
+                    "fruits"
+                ],
+                "preferred_delivery_time": "night",
+                "price_sensitivity": "premium",
+                "discount_preference": false,
+                "delivery_speed_importance": "next-day",
+                "health_based_filters": [
+                    "low-sugar",
+                    "low-fat"
+                ],
+                "usual_order_size": "family",
+                "platforms_used": [
+                    "Zepto",
+                    "Swiggy Instamart"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Auto",
+                "safety_importance": [
+                    "driver verification",
+                    "helmet"
+                ],
+                "min_driver_rating": 4.1,
+                "price_sensitivity": "medium",
+                "preferred_travel_times": [
+                    "9PM\u201311PM",
+                    "10AM\u201312PM"
+                ],
+                "travel_mode": "alone",
+                "usual_route": {
+                    "source_pincode": "560018",
+                    "destination_pincode": "560084"
+                },
+                "platform_preference": {
+                    "platform": "Rapido",
+                    "reason": "Availability"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "beauty",
+                    "fashion",
+                    "books"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9992\u2013\u20b91102",
+                    "beauty": "\u20b9426\u2013\u20b9729",
+                    "home_essentials": "\u20b9672\u2013\u20b91236"
+                },
+                "min_rating_threshold": 3.3,
+                "product_type_preference": "budget",
+                "delivery_speed": "no hurry",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "Nike",
+                    "boAt",
+                    "Apple"
+                ],
+                "personalized_recommendations": true,
+                "price_prediction_interest": true,
+                "return_policy_sensitivity": "low"
+            }
+        }
+    },
+    {
+        "user_id": "a9144ce0-4286-4c64-ad7c-84d7311634a2",
+        "name": "User_4",
+        "gender": "Female",
+        "age": 31,
+        "location": "Chennai",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "beverages",
+                    "fruits",
+                    "frozen food"
+                ],
+                "preferred_delivery_time": "evening",
+                "price_sensitivity": "medium",
+                "discount_preference": true,
+                "delivery_speed_importance": "next-day",
+                "health_based_filters": [
+                    "organic",
+                    "low-sugar"
+                ],
+                "usual_order_size": "single user",
+                "platforms_used": [
+                    "Swiggy Instamart",
+                    "BigBasket"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Bike",
+                "safety_importance": [
+                    "driver verification",
+                    "helmet"
+                ],
+                "min_driver_rating": 3.6,
+                "price_sensitivity": "high",
+                "preferred_travel_times": [
+                    "6PM\u20138PM",
+                    "10AM\u201312PM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560017",
+                    "destination_pincode": "560053"
+                },
+                "platform_preference": {
+                    "platform": "NammaYatri",
+                    "reason": "Availability"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "electronics",
+                    "home essentials",
+                    "beauty"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9487\u2013\u20b91048",
+                    "beauty": "\u20b9387\u2013\u20b9567",
+                    "home_essentials": "\u20b9362\u2013\u20b9704"
+                },
+                "min_rating_threshold": 3.5,
+                "product_type_preference": "branded",
+                "delivery_speed": "1-day",
+                "availability_flexibility": true,
+                "wishlist_brands": [
+                    "Apple",
+                    "boAt",
+                    "Mamaearth"
+                ],
+                "personalized_recommendations": true,
+                "price_prediction_interest": false,
+                "return_policy_sensitivity": "medium"
+            }
+        }
+    },
+    {
+        "user_id": "de02bbb2-d73c-450d-b9f8-fcf450c66283",
+        "name": "User_5",
+        "gender": "Female",
+        "age": 30,
+        "location": "Delhi",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "fruits",
+                    "snacks",
+                    "frozen food"
+                ],
+                "preferred_delivery_time": "morning",
+                "price_sensitivity": "budget",
+                "discount_preference": false,
+                "delivery_speed_importance": "next-day",
+                "health_based_filters": [
+                    "gluten-free",
+                    "low-fat"
+                ],
+                "usual_order_size": "family",
+                "platforms_used": [
+                    "BigBasket",
+                    "Swiggy Instamart"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Sedan",
+                "safety_importance": [
+                    "SOS",
+                    "helmet"
+                ],
+                "min_driver_rating": 4.4,
+                "price_sensitivity": "low",
+                "preferred_travel_times": [
+                    "10AM\u201312PM",
+                    "8AM\u201310AM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560092",
+                    "destination_pincode": "560060"
+                },
+                "platform_preference": {
+                    "platform": "Ola",
+                    "reason": "Clean vehicles"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "electronics",
+                    "home essentials",
+                    "beauty"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9946\u2013\u20b91062",
+                    "beauty": "\u20b9427\u2013\u20b9718",
+                    "home_essentials": "\u20b9664\u2013\u20b91180"
+                },
+                "min_rating_threshold": 3.5,
+                "product_type_preference": "branded",
+                "delivery_speed": "3-day",
+                "availability_flexibility": true,
+                "wishlist_brands": [
+                    "Apple",
+                    "Zara",
+                    "Samsung"
+                ],
+                "personalized_recommendations": false,
+                "price_prediction_interest": true,
+                "return_policy_sensitivity": "medium"
+            }
+        }
+    },
+    {
+        "user_id": "98f1a440-a433-4b9b-9848-517e6ff669a6",
+        "name": "User_6",
+        "gender": "Female",
+        "age": 31,
+        "location": "Chennai",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "frozen food",
+                    "beverages",
+                    "fruits"
+                ],
+                "preferred_delivery_time": "morning",
+                "price_sensitivity": "premium",
+                "discount_preference": true,
+                "delivery_speed_importance": "next-day",
+                "health_based_filters": [
+                    "low-fat",
+                    "gluten-free"
+                ],
+                "usual_order_size": "single user",
+                "platforms_used": [
+                    "JioMart",
+                    "Zepto"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "SUV",
+                "safety_importance": [
+                    "helmet",
+                    "driver verification"
+                ],
+                "min_driver_rating": 4.8,
+                "price_sensitivity": "low",
+                "preferred_travel_times": [
+                    "8AM\u201310AM",
+                    "9PM\u201311PM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560063",
+                    "destination_pincode": "560031"
+                },
+                "platform_preference": {
+                    "platform": "Uber",
+                    "reason": "Driver experience"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "electronics",
+                    "fashion",
+                    "beauty"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9904\u2013\u20b91477",
+                    "beauty": "\u20b9253\u2013\u20b9810",
+                    "home_essentials": "\u20b9474\u2013\u20b9825"
+                },
+                "min_rating_threshold": 3.6,
+                "product_type_preference": "budget",
+                "delivery_speed": "no hurry",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "Samsung",
+                    "Zara",
+                    "Mamaearth"
+                ],
+                "personalized_recommendations": true,
+                "price_prediction_interest": false,
+                "return_policy_sensitivity": "low"
+            }
+        }
+    },
+    {
+        "user_id": "a2428527-d39b-4d63-8d26-75abf269b70d",
+        "name": "User_7",
+        "gender": "Female",
+        "age": 28,
+        "location": "Bangalore",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "frozen food",
+                    "snacks",
+                    "dairy"
+                ],
+                "preferred_delivery_time": "morning",
+                "price_sensitivity": "medium",
+                "discount_preference": false,
+                "delivery_speed_importance": "next-day",
+                "health_based_filters": [
+                    "gluten-free",
+                    "low-sugar"
+                ],
+                "usual_order_size": "single user",
+                "platforms_used": [
+                    "Zepto",
+                    "JioMart"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Sedan",
+                "safety_importance": [
+                    "driver verification",
+                    "SOS"
+                ],
+                "min_driver_rating": 5.0,
+                "price_sensitivity": "low",
+                "preferred_travel_times": [
+                    "10AM\u201312PM",
+                    "8AM\u201310AM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560015",
+                    "destination_pincode": "560031"
+                },
+                "platform_preference": {
+                    "platform": "NammaYatri",
+                    "reason": "Clean vehicles"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "beauty",
+                    "fashion",
+                    "electronics"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9509\u2013\u20b91234",
+                    "beauty": "\u20b9395\u2013\u20b9868",
+                    "home_essentials": "\u20b9592\u2013\u20b91482"
+                },
+                "min_rating_threshold": 3.9,
+                "product_type_preference": "branded",
+                "delivery_speed": "1-day",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "Nike",
+                    "Samsung",
+                    "Mamaearth"
+                ],
+                "personalized_recommendations": false,
+                "price_prediction_interest": true,
+                "return_policy_sensitivity": "high"
+            }
+        }
+    },
+    {
+        "user_id": "c98493e4-20b1-4936-80d7-d69e20b12a59",
+        "name": "User_8",
+        "gender": "Female",
+        "age": 32,
+        "location": "Delhi",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "dairy",
+                    "fruits",
+                    "beverages"
+                ],
+                "preferred_delivery_time": "evening",
+                "price_sensitivity": "premium",
+                "discount_preference": true,
+                "delivery_speed_importance": "same-day",
+                "health_based_filters": [
+                    "low-fat",
+                    "low-sugar"
+                ],
+                "usual_order_size": "single user",
+                "platforms_used": [
+                    "BigBasket",
+                    "Swiggy Instamart"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Auto",
+                "safety_importance": [
+                    "driver verification",
+                    "SOS"
+                ],
+                "min_driver_rating": 3.6,
+                "price_sensitivity": "low",
+                "preferred_travel_times": [
+                    "10AM\u201312PM",
+                    "8AM\u201310AM"
+                ],
+                "travel_mode": "alone",
+                "usual_route": {
+                    "source_pincode": "560089",
+                    "destination_pincode": "560052"
+                },
+                "platform_preference": {
+                    "platform": "NammaYatri",
+                    "reason": "Clean vehicles"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "home essentials",
+                    "electronics",
+                    "books"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9628\u2013\u20b91371",
+                    "beauty": "\u20b9267\u2013\u20b9562",
+                    "home_essentials": "\u20b9356\u2013\u20b91439"
+                },
+                "min_rating_threshold": 5.0,
+                "product_type_preference": "budget",
+                "delivery_speed": "3-day",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "Samsung",
+                    "Nike",
+                    "Apple"
+                ],
+                "personalized_recommendations": false,
+                "price_prediction_interest": false,
+                "return_policy_sensitivity": "high"
+            }
+        }
+    },
+    {
+        "user_id": "df06aedf-6e2f-4026-b9f5-008dd4cd81c0",
+        "name": "User_9",
+        "gender": "Female",
+        "age": 33,
+        "location": "Delhi",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "personal care",
+                    "snacks",
+                    "beverages"
+                ],
+                "preferred_delivery_time": "night",
+                "price_sensitivity": "budget",
+                "discount_preference": false,
+                "delivery_speed_importance": "next-day",
+                "health_based_filters": [
+                    "organic",
+                    "gluten-free"
+                ],
+                "usual_order_size": "family",
+                "platforms_used": [
+                    "Zepto",
+                    "JioMart"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Auto",
+                "safety_importance": [
+                    "driver verification",
+                    "helmet"
+                ],
+                "min_driver_rating": 3.5,
+                "price_sensitivity": "medium",
+                "preferred_travel_times": [
+                    "8AM\u201310AM",
+                    "9PM\u201311PM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560074",
+                    "destination_pincode": "560055"
+                },
+                "platform_preference": {
+                    "platform": "Uber",
+                    "reason": "Better pricing"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "beauty",
+                    "electronics",
+                    "fashion"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9984\u2013\u20b91540",
+                    "beauty": "\u20b9190\u2013\u20b9784",
+                    "home_essentials": "\u20b9271\u2013\u20b91496"
+                },
+                "min_rating_threshold": 5.0,
+                "product_type_preference": "budget",
+                "delivery_speed": "1-day",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "boAt",
+                    "Zara",
+                    "Mamaearth"
+                ],
+                "personalized_recommendations": false,
+                "price_prediction_interest": true,
+                "return_policy_sensitivity": "medium"
+            }
+        }
+    },
+    {
+        "user_id": "16df3ecf-a5f7-4b34-8182-5bd5959cff60",
+        "name": "User_10",
+        "gender": "Female",
+        "age": 30,
+        "location": "Chennai",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "snacks",
+                    "fruits",
+                    "frozen food"
+                ],
+                "preferred_delivery_time": "evening",
+                "price_sensitivity": "premium",
+                "discount_preference": true,
+                "delivery_speed_importance": "next-day",
+                "health_based_filters": [
+                    "gluten-free",
+                    "organic"
+                ],
+                "usual_order_size": "family",
+                "platforms_used": [
+                    "JioMart",
+                    "Swiggy Instamart"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Auto",
+                "safety_importance": [
+                    "driver verification",
+                    "SOS"
+                ],
+                "min_driver_rating": 4.6,
+                "price_sensitivity": "medium",
+                "preferred_travel_times": [
+                    "8AM\u201310AM",
+                    "6PM\u20138PM"
+                ],
+                "travel_mode": "alone",
+                "usual_route": {
+                    "source_pincode": "560053",
+                    "destination_pincode": "560078"
+                },
+                "platform_preference": {
+                    "platform": "Uber",
+                    "reason": "Driver experience"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "books",
+                    "home essentials",
+                    "beauty"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9996\u2013\u20b91808",
+                    "beauty": "\u20b9463\u2013\u20b9536",
+                    "home_essentials": "\u20b9616\u2013\u20b91080"
+                },
+                "min_rating_threshold": 3.7,
+                "product_type_preference": "branded",
+                "delivery_speed": "1-day",
+                "availability_flexibility": true,
+                "wishlist_brands": [
+                    "Samsung",
+                    "Mamaearth",
+                    "Zara"
+                ],
+                "personalized_recommendations": false,
+                "price_prediction_interest": true,
+                "return_policy_sensitivity": "high"
+            }
+        }
+    },
+    {
+        "user_id": "4696a58c-8e3c-486e-bbca-659cec6db205",
+        "name": "User_11",
+        "gender": "Female",
+        "age": 33,
+        "location": "Hyderabad",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "beverages",
+                    "personal care",
+                    "vegetables"
+                ],
+                "preferred_delivery_time": "evening",
+                "price_sensitivity": "budget",
+                "discount_preference": true,
+                "delivery_speed_importance": "same-day",
+                "health_based_filters": [
+                    "low-fat",
+                    "low-sugar"
+                ],
+                "usual_order_size": "single user",
+                "platforms_used": [
+                    "JioMart",
+                    "BigBasket"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Sedan",
+                "safety_importance": [
+                    "helmet",
+                    "SOS"
+                ],
+                "min_driver_rating": 3.9,
+                "price_sensitivity": "medium",
+                "preferred_travel_times": [
+                    "8AM\u201310AM",
+                    "9PM\u201311PM"
+                ],
+                "travel_mode": "alone",
+                "usual_route": {
+                    "source_pincode": "560098",
+                    "destination_pincode": "560079"
+                },
+                "platform_preference": {
+                    "platform": "Ola",
+                    "reason": "Clean vehicles"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "fashion",
+                    "beauty",
+                    "books"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9406\u2013\u20b91011",
+                    "beauty": "\u20b9209\u2013\u20b9874",
+                    "home_essentials": "\u20b9312\u2013\u20b9735"
+                },
+                "min_rating_threshold": 3.8,
+                "product_type_preference": "branded",
+                "delivery_speed": "1-day",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "boAt",
+                    "Mamaearth",
+                    "Samsung"
+                ],
+                "personalized_recommendations": false,
+                "price_prediction_interest": true,
+                "return_policy_sensitivity": "high"
+            }
+        }
+    },
+    {
+        "user_id": "e73b4c39-81ab-4e97-a4f7-17d8cd4cff15",
+        "name": "User_12",
+        "gender": "Female",
+        "age": 26,
+        "location": "Bangalore",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "personal care",
+                    "dairy",
+                    "beverages"
+                ],
+                "preferred_delivery_time": "night",
+                "price_sensitivity": "medium",
+                "discount_preference": true,
+                "delivery_speed_importance": "next-day",
+                "health_based_filters": [
+                    "low-sugar",
+                    "low-fat"
+                ],
+                "usual_order_size": "single user",
+                "platforms_used": [
+                    "Zepto",
+                    "Swiggy Instamart"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Sedan",
+                "safety_importance": [
+                    "SOS",
+                    "driver verification"
+                ],
+                "min_driver_rating": 3.5,
+                "price_sensitivity": "high",
+                "preferred_travel_times": [
+                    "9PM\u201311PM",
+                    "10AM\u201312PM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560093",
+                    "destination_pincode": "560015"
+                },
+                "platform_preference": {
+                    "platform": "NammaYatri",
+                    "reason": "Availability"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "beauty",
+                    "home essentials",
+                    "electronics"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9981\u2013\u20b91998",
+                    "beauty": "\u20b9381\u2013\u20b9755",
+                    "home_essentials": "\u20b9649\u2013\u20b91493"
+                },
+                "min_rating_threshold": 4.8,
+                "product_type_preference": "budget",
+                "delivery_speed": "3-day",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "Apple",
+                    "Nike",
+                    "Samsung"
+                ],
+                "personalized_recommendations": false,
+                "price_prediction_interest": false,
+                "return_policy_sensitivity": "high"
+            }
+        }
+    },
+    {
+        "user_id": "4beea02f-0787-4dc7-9c63-9c44e1899c05",
+        "name": "User_13",
+        "gender": "Female",
+        "age": 28,
+        "location": "Bangalore",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "beverages",
+                    "frozen food",
+                    "vegetables"
+                ],
+                "preferred_delivery_time": "morning",
+                "price_sensitivity": "medium",
+                "discount_preference": false,
+                "delivery_speed_importance": "same-day",
+                "health_based_filters": [
+                    "organic",
+                    "gluten-free"
+                ],
+                "usual_order_size": "single user",
+                "platforms_used": [
+                    "Zepto",
+                    "BigBasket"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "SUV",
+                "safety_importance": [
+                    "SOS",
+                    "helmet"
+                ],
+                "min_driver_rating": 4.5,
+                "price_sensitivity": "high",
+                "preferred_travel_times": [
+                    "8AM\u201310AM",
+                    "9PM\u201311PM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560055",
+                    "destination_pincode": "560047"
+                },
+                "platform_preference": {
+                    "platform": "Rapido",
+                    "reason": "Clean vehicles"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "electronics",
+                    "books",
+                    "home essentials"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9877\u2013\u20b91305",
+                    "beauty": "\u20b9436\u2013\u20b9536",
+                    "home_essentials": "\u20b9313\u2013\u20b9727"
+                },
+                "min_rating_threshold": 3.6,
+                "product_type_preference": "budget",
+                "delivery_speed": "1-day",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "Mamaearth",
+                    "Nike",
+                    "boAt"
+                ],
+                "personalized_recommendations": false,
+                "price_prediction_interest": false,
+                "return_policy_sensitivity": "low"
+            }
+        }
+    },
+    {
+        "user_id": "16f94a62-78a4-480b-9889-30ca3bc4dda4",
+        "name": "User_14",
+        "gender": "Female",
+        "age": 34,
+        "location": "Delhi",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "beverages",
+                    "vegetables",
+                    "frozen food"
+                ],
+                "preferred_delivery_time": "evening",
+                "price_sensitivity": "budget",
+                "discount_preference": false,
+                "delivery_speed_importance": "next-day",
+                "health_based_filters": [
+                    "low-sugar",
+                    "gluten-free"
+                ],
+                "usual_order_size": "2\u20133 people",
+                "platforms_used": [
+                    "BigBasket",
+                    "Swiggy Instamart"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Auto",
+                "safety_importance": [
+                    "driver verification",
+                    "SOS"
+                ],
+                "min_driver_rating": 4.3,
+                "price_sensitivity": "medium",
+                "preferred_travel_times": [
+                    "9PM\u201311PM",
+                    "6PM\u20138PM"
+                ],
+                "travel_mode": "alone",
+                "usual_route": {
+                    "source_pincode": "560030",
+                    "destination_pincode": "560052"
+                },
+                "platform_preference": {
+                    "platform": "Ola",
+                    "reason": "Clean vehicles"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "electronics",
+                    "fashion",
+                    "beauty"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9410\u2013\u20b91093",
+                    "beauty": "\u20b9447\u2013\u20b9595",
+                    "home_essentials": "\u20b9515\u2013\u20b91287"
+                },
+                "min_rating_threshold": 3.9,
+                "product_type_preference": "branded",
+                "delivery_speed": "no hurry",
+                "availability_flexibility": true,
+                "wishlist_brands": [
+                    "Apple",
+                    "Samsung",
+                    "Zara"
+                ],
+                "personalized_recommendations": false,
+                "price_prediction_interest": true,
+                "return_policy_sensitivity": "low"
+            }
+        }
+    },
+    {
+        "user_id": "6b8ee5f9-d794-4337-925d-692b4833aecd",
+        "name": "User_15",
+        "gender": "Female",
+        "age": 30,
+        "location": "Bangalore",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "beverages",
+                    "personal care",
+                    "snacks"
+                ],
+                "preferred_delivery_time": "morning",
+                "price_sensitivity": "medium",
+                "discount_preference": true,
+                "delivery_speed_importance": "same-day",
+                "health_based_filters": [
+                    "organic",
+                    "low-sugar"
+                ],
+                "usual_order_size": "family",
+                "platforms_used": [
+                    "BigBasket",
+                    "Swiggy Instamart"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Auto",
+                "safety_importance": [
+                    "driver verification",
+                    "SOS"
+                ],
+                "min_driver_rating": 4.3,
+                "price_sensitivity": "low",
+                "preferred_travel_times": [
+                    "9PM\u201311PM",
+                    "10AM\u201312PM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560056",
+                    "destination_pincode": "560038"
+                },
+                "platform_preference": {
+                    "platform": "Rapido",
+                    "reason": "Clean vehicles"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "fashion",
+                    "electronics",
+                    "beauty"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9620\u2013\u20b91125",
+                    "beauty": "\u20b9356\u2013\u20b9764",
+                    "home_essentials": "\u20b9492\u2013\u20b91016"
+                },
+                "min_rating_threshold": 4.2,
+                "product_type_preference": "budget",
+                "delivery_speed": "3-day",
+                "availability_flexibility": true,
+                "wishlist_brands": [
+                    "Mamaearth",
+                    "Zara",
+                    "boAt"
+                ],
+                "personalized_recommendations": true,
+                "price_prediction_interest": false,
+                "return_policy_sensitivity": "medium"
+            }
+        }
+    },
+    {
+        "user_id": "424ce17f-75a8-4a62-a9ac-7be0bcdbf15e",
+        "name": "User_16",
+        "gender": "Female",
+        "age": 30,
+        "location": "Delhi",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "personal care",
+                    "frozen food",
+                    "dairy"
+                ],
+                "preferred_delivery_time": "morning",
+                "price_sensitivity": "premium",
+                "discount_preference": false,
+                "delivery_speed_importance": "same-day",
+                "health_based_filters": [
+                    "low-sugar",
+                    "gluten-free"
+                ],
+                "usual_order_size": "2\u20133 people",
+                "platforms_used": [
+                    "BigBasket",
+                    "JioMart"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Auto",
+                "safety_importance": [
+                    "helmet",
+                    "SOS"
+                ],
+                "min_driver_rating": 4.2,
+                "price_sensitivity": "medium",
+                "preferred_travel_times": [
+                    "6PM\u20138PM",
+                    "9PM\u201311PM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560017",
+                    "destination_pincode": "560016"
+                },
+                "platform_preference": {
+                    "platform": "Rapido",
+                    "reason": "Availability"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "fashion",
+                    "home essentials",
+                    "beauty"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9668\u2013\u20b91694",
+                    "beauty": "\u20b9404\u2013\u20b9519",
+                    "home_essentials": "\u20b9393\u2013\u20b91339"
+                },
+                "min_rating_threshold": 3.7,
+                "product_type_preference": "branded",
+                "delivery_speed": "no hurry",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "Apple",
+                    "Mamaearth",
+                    "boAt"
+                ],
+                "personalized_recommendations": false,
+                "price_prediction_interest": false,
+                "return_policy_sensitivity": "high"
+            }
+        }
+    },
+    {
+        "user_id": "5e064279-d9ae-4e64-b8a6-c1c44a9339fe",
+        "name": "User_17",
+        "gender": "Female",
+        "age": 34,
+        "location": "Chennai",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "frozen food",
+                    "snacks",
+                    "vegetables"
+                ],
+                "preferred_delivery_time": "night",
+                "price_sensitivity": "premium",
+                "discount_preference": true,
+                "delivery_speed_importance": "same-day",
+                "health_based_filters": [
+                    "low-sugar",
+                    "gluten-free"
+                ],
+                "usual_order_size": "2\u20133 people",
+                "platforms_used": [
+                    "Swiggy Instamart",
+                    "BigBasket"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "SUV",
+                "safety_importance": [
+                    "helmet",
+                    "SOS"
+                ],
+                "min_driver_rating": 4.3,
+                "price_sensitivity": "medium",
+                "preferred_travel_times": [
+                    "6PM\u20138PM",
+                    "8AM\u201310AM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560059",
+                    "destination_pincode": "560012"
+                },
+                "platform_preference": {
+                    "platform": "Rapido",
+                    "reason": "Clean vehicles"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "books",
+                    "fashion",
+                    "electronics"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9524\u2013\u20b91439",
+                    "beauty": "\u20b9186\u2013\u20b9668",
+                    "home_essentials": "\u20b9445\u2013\u20b91096"
+                },
+                "min_rating_threshold": 3.1,
+                "product_type_preference": "budget",
+                "delivery_speed": "no hurry",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "Apple",
+                    "Nike",
+                    "boAt"
+                ],
+                "personalized_recommendations": false,
+                "price_prediction_interest": true,
+                "return_policy_sensitivity": "low"
+            }
+        }
+    },
+    {
+        "user_id": "f37cf1e7-ff91-46ff-a207-3fee001afe91",
+        "name": "User_18",
+        "gender": "Female",
+        "age": 35,
+        "location": "Bangalore",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "beverages",
+                    "personal care",
+                    "snacks"
+                ],
+                "preferred_delivery_time": "morning",
+                "price_sensitivity": "medium",
+                "discount_preference": false,
+                "delivery_speed_importance": "same-day",
+                "health_based_filters": [
+                    "organic",
+                    "low-fat"
+                ],
+                "usual_order_size": "family",
+                "platforms_used": [
+                    "JioMart",
+                    "BigBasket"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Bike",
+                "safety_importance": [
+                    "helmet",
+                    "SOS"
+                ],
+                "min_driver_rating": 4.1,
+                "price_sensitivity": "low",
+                "preferred_travel_times": [
+                    "10AM\u201312PM",
+                    "8AM\u201310AM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560062",
+                    "destination_pincode": "560071"
+                },
+                "platform_preference": {
+                    "platform": "Rapido",
+                    "reason": "Availability"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "beauty",
+                    "books",
+                    "fashion"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9882\u2013\u20b91401",
+                    "beauty": "\u20b9322\u2013\u20b9529",
+                    "home_essentials": "\u20b9360\u2013\u20b91188"
+                },
+                "min_rating_threshold": 3.3,
+                "product_type_preference": "budget",
+                "delivery_speed": "no hurry",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "Samsung",
+                    "Mamaearth",
+                    "Zara"
+                ],
+                "personalized_recommendations": false,
+                "price_prediction_interest": false,
+                "return_policy_sensitivity": "low"
+            }
+        }
+    },
+    {
+        "user_id": "9a72d0a9-49f1-492b-8a24-29efa190a477",
+        "name": "User_19",
+        "gender": "Female",
+        "age": 29,
+        "location": "Delhi",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "beverages",
+                    "frozen food",
+                    "personal care"
+                ],
+                "preferred_delivery_time": "evening",
+                "price_sensitivity": "premium",
+                "discount_preference": true,
+                "delivery_speed_importance": "next-day",
+                "health_based_filters": [
+                    "low-sugar",
+                    "gluten-free"
+                ],
+                "usual_order_size": "family",
+                "platforms_used": [
+                    "Zepto",
+                    "JioMart"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "SUV",
+                "safety_importance": [
+                    "SOS",
+                    "helmet"
+                ],
+                "min_driver_rating": 3.6,
+                "price_sensitivity": "high",
+                "preferred_travel_times": [
+                    "10AM\u201312PM",
+                    "8AM\u201310AM"
+                ],
+                "travel_mode": "alone",
+                "usual_route": {
+                    "source_pincode": "560012",
+                    "destination_pincode": "560066"
+                },
+                "platform_preference": {
+                    "platform": "Ola",
+                    "reason": "Better pricing"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "electronics",
+                    "fashion",
+                    "home essentials"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9625\u2013\u20b91759",
+                    "beauty": "\u20b9376\u2013\u20b9898",
+                    "home_essentials": "\u20b9382\u2013\u20b9940"
+                },
+                "min_rating_threshold": 3.1,
+                "product_type_preference": "branded",
+                "delivery_speed": "1-day",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "Nike",
+                    "boAt",
+                    "Zara"
+                ],
+                "personalized_recommendations": true,
+                "price_prediction_interest": false,
+                "return_policy_sensitivity": "medium"
+            }
+        }
+    },
+    {
+        "user_id": "ae5df35e-c4d9-496a-9a93-7a6436deb48c",
+        "name": "User_20",
+        "gender": "Female",
+        "age": 34,
+        "location": "Hyderabad",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "dairy",
+                    "fruits",
+                    "frozen food"
+                ],
+                "preferred_delivery_time": "morning",
+                "price_sensitivity": "budget",
+                "discount_preference": true,
+                "delivery_speed_importance": "next-day",
+                "health_based_filters": [
+                    "gluten-free",
+                    "low-fat"
+                ],
+                "usual_order_size": "family",
+                "platforms_used": [
+                    "Swiggy Instamart",
+                    "BigBasket"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "SUV",
+                "safety_importance": [
+                    "SOS",
+                    "helmet"
+                ],
+                "min_driver_rating": 4.1,
+                "price_sensitivity": "high",
+                "preferred_travel_times": [
+                    "10AM\u201312PM",
+                    "8AM\u201310AM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560043",
+                    "destination_pincode": "560021"
+                },
+                "platform_preference": {
+                    "platform": "Uber",
+                    "reason": "Better pricing"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "electronics",
+                    "books",
+                    "fashion"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9464\u2013\u20b91854",
+                    "beauty": "\u20b9423\u2013\u20b9664",
+                    "home_essentials": "\u20b9244\u2013\u20b9907"
+                },
+                "min_rating_threshold": 3.6,
+                "product_type_preference": "branded",
+                "delivery_speed": "1-day",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "Nike",
+                    "Apple",
+                    "boAt"
+                ],
+                "personalized_recommendations": false,
+                "price_prediction_interest": true,
+                "return_policy_sensitivity": "high"
+            }
+        }
+    },
+    {
+        "user_id": "58c9df34-cf56-4fef-93d8-950c235e333d",
+        "name": "User_21",
+        "gender": "Female",
+        "age": 27,
+        "location": "Delhi",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "vegetables",
+                    "snacks",
+                    "fruits"
+                ],
+                "preferred_delivery_time": "night",
+                "price_sensitivity": "budget",
+                "discount_preference": false,
+                "delivery_speed_importance": "next-day",
+                "health_based_filters": [
+                    "low-sugar",
+                    "gluten-free"
+                ],
+                "usual_order_size": "family",
+                "platforms_used": [
+                    "BigBasket",
+                    "JioMart"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "SUV",
+                "safety_importance": [
+                    "driver verification",
+                    "SOS"
+                ],
+                "min_driver_rating": 3.8,
+                "price_sensitivity": "medium",
+                "preferred_travel_times": [
+                    "8AM\u201310AM",
+                    "10AM\u201312PM"
+                ],
+                "travel_mode": "alone",
+                "usual_route": {
+                    "source_pincode": "560014",
+                    "destination_pincode": "560064"
+                },
+                "platform_preference": {
+                    "platform": "NammaYatri",
+                    "reason": "Clean vehicles"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "electronics",
+                    "home essentials",
+                    "beauty"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9634\u2013\u20b91831",
+                    "beauty": "\u20b9222\u2013\u20b9616",
+                    "home_essentials": "\u20b9224\u2013\u20b91213"
+                },
+                "min_rating_threshold": 4.0,
+                "product_type_preference": "budget",
+                "delivery_speed": "1-day",
+                "availability_flexibility": true,
+                "wishlist_brands": [
+                    "Samsung",
+                    "boAt",
+                    "Zara"
+                ],
+                "personalized_recommendations": true,
+                "price_prediction_interest": false,
+                "return_policy_sensitivity": "high"
+            }
+        }
+    },
+    {
+        "user_id": "4a1f014d-92db-448a-b4ee-f94bf13bb9cc",
+        "name": "User_22",
+        "gender": "Female",
+        "age": 28,
+        "location": "Delhi",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "dairy",
+                    "vegetables",
+                    "snacks"
+                ],
+                "preferred_delivery_time": "evening",
+                "price_sensitivity": "premium",
+                "discount_preference": true,
+                "delivery_speed_importance": "same-day",
+                "health_based_filters": [
+                    "gluten-free",
+                    "low-fat"
+                ],
+                "usual_order_size": "family",
+                "platforms_used": [
+                    "JioMart",
+                    "Zepto"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Sedan",
+                "safety_importance": [
+                    "driver verification",
+                    "SOS"
+                ],
+                "min_driver_rating": 3.7,
+                "price_sensitivity": "medium",
+                "preferred_travel_times": [
+                    "6PM\u20138PM",
+                    "10AM\u201312PM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560093",
+                    "destination_pincode": "560038"
+                },
+                "platform_preference": {
+                    "platform": "Ola",
+                    "reason": "Clean vehicles"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "electronics",
+                    "books",
+                    "home essentials"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9818\u2013\u20b91073",
+                    "beauty": "\u20b9299\u2013\u20b9832",
+                    "home_essentials": "\u20b9435\u2013\u20b91435"
+                },
+                "min_rating_threshold": 3.9,
+                "product_type_preference": "branded",
+                "delivery_speed": "1-day",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "boAt",
+                    "Mamaearth",
+                    "Zara"
+                ],
+                "personalized_recommendations": true,
+                "price_prediction_interest": false,
+                "return_policy_sensitivity": "medium"
+            }
+        }
+    },
+    {
+        "user_id": "e3da9502-2138-4d37-90a1-060ab6dbc38d",
+        "name": "User_23",
+        "gender": "Female",
+        "age": 26,
+        "location": "Hyderabad",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "frozen food",
+                    "fruits",
+                    "beverages"
+                ],
+                "preferred_delivery_time": "morning",
+                "price_sensitivity": "budget",
+                "discount_preference": false,
+                "delivery_speed_importance": "next-day",
+                "health_based_filters": [
+                    "gluten-free",
+                    "organic"
+                ],
+                "usual_order_size": "family",
+                "platforms_used": [
+                    "JioMart",
+                    "Zepto"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Sedan",
+                "safety_importance": [
+                    "driver verification",
+                    "helmet"
+                ],
+                "min_driver_rating": 4.7,
+                "price_sensitivity": "high",
+                "preferred_travel_times": [
+                    "9PM\u201311PM",
+                    "6PM\u20138PM"
+                ],
+                "travel_mode": "alone",
+                "usual_route": {
+                    "source_pincode": "560061",
+                    "destination_pincode": "560015"
+                },
+                "platform_preference": {
+                    "platform": "NammaYatri",
+                    "reason": "Clean vehicles"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "fashion",
+                    "home essentials",
+                    "electronics"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9589\u2013\u20b91585",
+                    "beauty": "\u20b9385\u2013\u20b9625",
+                    "home_essentials": "\u20b9474\u2013\u20b91109"
+                },
+                "min_rating_threshold": 4.6,
+                "product_type_preference": "branded",
+                "delivery_speed": "3-day",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "boAt",
+                    "Apple",
+                    "Nike"
+                ],
+                "personalized_recommendations": true,
+                "price_prediction_interest": false,
+                "return_policy_sensitivity": "medium"
+            }
+        }
+    },
+    {
+        "user_id": "87712980-0620-498d-a7c6-532eaf50f816",
+        "name": "User_24",
+        "gender": "Female",
+        "age": 26,
+        "location": "Hyderabad",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "fruits",
+                    "dairy",
+                    "beverages"
+                ],
+                "preferred_delivery_time": "night",
+                "price_sensitivity": "budget",
+                "discount_preference": true,
+                "delivery_speed_importance": "next-day",
+                "health_based_filters": [
+                    "gluten-free",
+                    "low-sugar"
+                ],
+                "usual_order_size": "family",
+                "platforms_used": [
+                    "Swiggy Instamart",
+                    "BigBasket"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Sedan",
+                "safety_importance": [
+                    "helmet",
+                    "driver verification"
+                ],
+                "min_driver_rating": 3.8,
+                "price_sensitivity": "medium",
+                "preferred_travel_times": [
+                    "8AM\u201310AM",
+                    "10AM\u201312PM"
+                ],
+                "travel_mode": "alone",
+                "usual_route": {
+                    "source_pincode": "560010",
+                    "destination_pincode": "560072"
+                },
+                "platform_preference": {
+                    "platform": "Rapido",
+                    "reason": "Clean vehicles"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "home essentials",
+                    "books",
+                    "fashion"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9449\u2013\u20b91349",
+                    "beauty": "\u20b9202\u2013\u20b9763",
+                    "home_essentials": "\u20b9625\u2013\u20b91135"
+                },
+                "min_rating_threshold": 3.6,
+                "product_type_preference": "budget",
+                "delivery_speed": "1-day",
+                "availability_flexibility": true,
+                "wishlist_brands": [
+                    "boAt",
+                    "Nike",
+                    "Samsung"
+                ],
+                "personalized_recommendations": false,
+                "price_prediction_interest": false,
+                "return_policy_sensitivity": "low"
+            }
+        }
+    },
+    {
+        "user_id": "d8b35c60-a74a-4f7a-a9bd-426198e6cdb0",
+        "name": "User_25",
+        "gender": "Female",
+        "age": 32,
+        "location": "Chennai",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "fruits",
+                    "frozen food",
+                    "beverages"
+                ],
+                "preferred_delivery_time": "evening",
+                "price_sensitivity": "premium",
+                "discount_preference": true,
+                "delivery_speed_importance": "next-day",
+                "health_based_filters": [
+                    "low-fat",
+                    "gluten-free"
+                ],
+                "usual_order_size": "2\u20133 people",
+                "platforms_used": [
+                    "Zepto",
+                    "Swiggy Instamart"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "SUV",
+                "safety_importance": [
+                    "helmet",
+                    "SOS"
+                ],
+                "min_driver_rating": 4.7,
+                "price_sensitivity": "low",
+                "preferred_travel_times": [
+                    "10AM\u201312PM",
+                    "8AM\u201310AM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560014",
+                    "destination_pincode": "560018"
+                },
+                "platform_preference": {
+                    "platform": "Uber",
+                    "reason": "Better pricing"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "books",
+                    "home essentials",
+                    "electronics"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9736\u2013\u20b91315",
+                    "beauty": "\u20b9149\u2013\u20b9538",
+                    "home_essentials": "\u20b9691\u2013\u20b9803"
+                },
+                "min_rating_threshold": 4.0,
+                "product_type_preference": "budget",
+                "delivery_speed": "no hurry",
+                "availability_flexibility": true,
+                "wishlist_brands": [
+                    "boAt",
+                    "Nike",
+                    "Apple"
+                ],
+                "personalized_recommendations": false,
+                "price_prediction_interest": false,
+                "return_policy_sensitivity": "medium"
+            }
+        }
+    },
+    {
+        "user_id": "9af3c38e-3cae-491f-b290-48b1a429e3b3",
+        "name": "User_26",
+        "gender": "Female",
+        "age": 31,
+        "location": "Delhi",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "personal care",
+                    "fruits",
+                    "beverages"
+                ],
+                "preferred_delivery_time": "morning",
+                "price_sensitivity": "premium",
+                "discount_preference": true,
+                "delivery_speed_importance": "same-day",
+                "health_based_filters": [
+                    "low-fat",
+                    "organic"
+                ],
+                "usual_order_size": "2\u20133 people",
+                "platforms_used": [
+                    "BigBasket",
+                    "JioMart"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "SUV",
+                "safety_importance": [
+                    "driver verification",
+                    "SOS"
+                ],
+                "min_driver_rating": 4.6,
+                "price_sensitivity": "low",
+                "preferred_travel_times": [
+                    "9PM\u201311PM",
+                    "10AM\u201312PM"
+                ],
+                "travel_mode": "alone",
+                "usual_route": {
+                    "source_pincode": "560010",
+                    "destination_pincode": "560021"
+                },
+                "platform_preference": {
+                    "platform": "Rapido",
+                    "reason": "Driver experience"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "electronics",
+                    "home essentials",
+                    "books"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9876\u2013\u20b91268",
+                    "beauty": "\u20b9441\u2013\u20b9574",
+                    "home_essentials": "\u20b9282\u2013\u20b91460"
+                },
+                "min_rating_threshold": 3.3,
+                "product_type_preference": "branded",
+                "delivery_speed": "no hurry",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "Zara",
+                    "Nike",
+                    "Mamaearth"
+                ],
+                "personalized_recommendations": true,
+                "price_prediction_interest": false,
+                "return_policy_sensitivity": "medium"
+            }
+        }
+    },
+    {
+        "user_id": "de223bb8-0c1c-49c9-9c7d-b4a63590d820",
+        "name": "User_27",
+        "gender": "Female",
+        "age": 27,
+        "location": "Bangalore",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "fruits",
+                    "vegetables",
+                    "frozen food"
+                ],
+                "preferred_delivery_time": "evening",
+                "price_sensitivity": "budget",
+                "discount_preference": false,
+                "delivery_speed_importance": "same-day",
+                "health_based_filters": [
+                    "low-sugar",
+                    "organic"
+                ],
+                "usual_order_size": "single user",
+                "platforms_used": [
+                    "JioMart",
+                    "Swiggy Instamart"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Bike",
+                "safety_importance": [
+                    "helmet",
+                    "driver verification"
+                ],
+                "min_driver_rating": 3.9,
+                "price_sensitivity": "high",
+                "preferred_travel_times": [
+                    "9PM\u201311PM",
+                    "6PM\u20138PM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560081",
+                    "destination_pincode": "560096"
+                },
+                "platform_preference": {
+                    "platform": "Ola",
+                    "reason": "Driver experience"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "electronics",
+                    "home essentials",
+                    "beauty"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9636\u2013\u20b91223",
+                    "beauty": "\u20b9152\u2013\u20b9721",
+                    "home_essentials": "\u20b9662\u2013\u20b91125"
+                },
+                "min_rating_threshold": 4.9,
+                "product_type_preference": "budget",
+                "delivery_speed": "no hurry",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "Zara",
+                    "boAt",
+                    "Apple"
+                ],
+                "personalized_recommendations": true,
+                "price_prediction_interest": true,
+                "return_policy_sensitivity": "high"
+            }
+        }
+    },
+    {
+        "user_id": "b084cd3f-2032-4bd9-8ab7-c4602c4e5bde",
+        "name": "User_28",
+        "gender": "Female",
+        "age": 34,
+        "location": "Bangalore",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "vegetables",
+                    "fruits",
+                    "beverages"
+                ],
+                "preferred_delivery_time": "night",
+                "price_sensitivity": "budget",
+                "discount_preference": false,
+                "delivery_speed_importance": "same-day",
+                "health_based_filters": [
+                    "low-fat",
+                    "gluten-free"
+                ],
+                "usual_order_size": "2\u20133 people",
+                "platforms_used": [
+                    "JioMart",
+                    "Swiggy Instamart"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Auto",
+                "safety_importance": [
+                    "helmet",
+                    "SOS"
+                ],
+                "min_driver_rating": 4.6,
+                "price_sensitivity": "low",
+                "preferred_travel_times": [
+                    "9PM\u201311PM",
+                    "10AM\u201312PM"
+                ],
+                "travel_mode": "alone",
+                "usual_route": {
+                    "source_pincode": "560030",
+                    "destination_pincode": "560060"
+                },
+                "platform_preference": {
+                    "platform": "NammaYatri",
+                    "reason": "Availability"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "books",
+                    "fashion",
+                    "electronics"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9410\u2013\u20b91089",
+                    "beauty": "\u20b9232\u2013\u20b9893",
+                    "home_essentials": "\u20b9318\u2013\u20b9833"
+                },
+                "min_rating_threshold": 4.2,
+                "product_type_preference": "branded",
+                "delivery_speed": "3-day",
+                "availability_flexibility": true,
+                "wishlist_brands": [
+                    "Mamaearth",
+                    "Zara",
+                    "Apple"
+                ],
+                "personalized_recommendations": true,
+                "price_prediction_interest": false,
+                "return_policy_sensitivity": "high"
+            }
+        }
+    },
+    {
+        "user_id": "ff7ae078-2378-4605-9fd4-0ff618ae6339",
+        "name": "User_29",
+        "gender": "Female",
+        "age": 31,
+        "location": "Chennai",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "snacks",
+                    "personal care",
+                    "beverages"
+                ],
+                "preferred_delivery_time": "night",
+                "price_sensitivity": "premium",
+                "discount_preference": false,
+                "delivery_speed_importance": "next-day",
+                "health_based_filters": [
+                    "gluten-free",
+                    "organic"
+                ],
+                "usual_order_size": "2\u20133 people",
+                "platforms_used": [
+                    "BigBasket",
+                    "Zepto"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Auto",
+                "safety_importance": [
+                    "SOS",
+                    "driver verification"
+                ],
+                "min_driver_rating": 4.6,
+                "price_sensitivity": "high",
+                "preferred_travel_times": [
+                    "6PM\u20138PM",
+                    "10AM\u201312PM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560067",
+                    "destination_pincode": "560066"
+                },
+                "platform_preference": {
+                    "platform": "NammaYatri",
+                    "reason": "Clean vehicles"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "beauty",
+                    "fashion",
+                    "books"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9872\u2013\u20b91984",
+                    "beauty": "\u20b9295\u2013\u20b9583",
+                    "home_essentials": "\u20b9691\u2013\u20b9910"
+                },
+                "min_rating_threshold": 4.8,
+                "product_type_preference": "branded",
+                "delivery_speed": "1-day",
+                "availability_flexibility": true,
+                "wishlist_brands": [
+                    "Apple",
+                    "Mamaearth",
+                    "Nike"
+                ],
+                "personalized_recommendations": true,
+                "price_prediction_interest": false,
+                "return_policy_sensitivity": "low"
+            }
+        }
+    },
+    {
+        "user_id": "43eaac78-6564-4baa-94c0-46003027a8e0",
+        "name": "User_30",
+        "gender": "Female",
+        "age": 31,
+        "location": "Chennai",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "beverages",
+                    "dairy",
+                    "frozen food"
+                ],
+                "preferred_delivery_time": "night",
+                "price_sensitivity": "medium",
+                "discount_preference": true,
+                "delivery_speed_importance": "next-day",
+                "health_based_filters": [
+                    "low-sugar",
+                    "gluten-free"
+                ],
+                "usual_order_size": "family",
+                "platforms_used": [
+                    "BigBasket",
+                    "JioMart"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Auto",
+                "safety_importance": [
+                    "helmet",
+                    "driver verification"
+                ],
+                "min_driver_rating": 3.9,
+                "price_sensitivity": "low",
+                "preferred_travel_times": [
+                    "6PM\u20138PM",
+                    "8AM\u201310AM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560045",
+                    "destination_pincode": "560034"
+                },
+                "platform_preference": {
+                    "platform": "Uber",
+                    "reason": "Better pricing"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "beauty",
+                    "books",
+                    "home essentials"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9548\u2013\u20b91767",
+                    "beauty": "\u20b9274\u2013\u20b9764",
+                    "home_essentials": "\u20b9345\u2013\u20b91371"
+                },
+                "min_rating_threshold": 4.2,
+                "product_type_preference": "budget",
+                "delivery_speed": "3-day",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "Apple",
+                    "Nike",
+                    "Samsung"
+                ],
+                "personalized_recommendations": true,
+                "price_prediction_interest": false,
+                "return_policy_sensitivity": "high"
+            }
+        }
+    },
+    {
+        "user_id": "be90da40-7e97-4958-ab47-cd92cd4a8d10",
+        "name": "User_31",
+        "gender": "Female",
+        "age": 26,
+        "location": "Chennai",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "snacks",
+                    "vegetables",
+                    "beverages"
+                ],
+                "preferred_delivery_time": "evening",
+                "price_sensitivity": "premium",
+                "discount_preference": true,
+                "delivery_speed_importance": "same-day",
+                "health_based_filters": [
+                    "low-sugar",
+                    "organic"
+                ],
+                "usual_order_size": "2\u20133 people",
+                "platforms_used": [
+                    "BigBasket",
+                    "Zepto"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "SUV",
+                "safety_importance": [
+                    "helmet",
+                    "SOS"
+                ],
+                "min_driver_rating": 4.8,
+                "price_sensitivity": "high",
+                "preferred_travel_times": [
+                    "8AM\u201310AM",
+                    "9PM\u201311PM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560052",
+                    "destination_pincode": "560049"
+                },
+                "platform_preference": {
+                    "platform": "Rapido",
+                    "reason": "Clean vehicles"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "home essentials",
+                    "beauty",
+                    "electronics"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9832\u2013\u20b91814",
+                    "beauty": "\u20b9252\u2013\u20b9533",
+                    "home_essentials": "\u20b9455\u2013\u20b91414"
+                },
+                "min_rating_threshold": 4.3,
+                "product_type_preference": "branded",
+                "delivery_speed": "1-day",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "boAt",
+                    "Apple",
+                    "Samsung"
+                ],
+                "personalized_recommendations": false,
+                "price_prediction_interest": false,
+                "return_policy_sensitivity": "medium"
+            }
+        }
+    },
+    {
+        "user_id": "1f8dde9a-a8bb-4bff-9427-af599b3c75b0",
+        "name": "User_32",
+        "gender": "Female",
+        "age": 31,
+        "location": "Delhi",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "dairy",
+                    "frozen food",
+                    "fruits"
+                ],
+                "preferred_delivery_time": "night",
+                "price_sensitivity": "medium",
+                "discount_preference": true,
+                "delivery_speed_importance": "same-day",
+                "health_based_filters": [
+                    "low-sugar",
+                    "gluten-free"
+                ],
+                "usual_order_size": "family",
+                "platforms_used": [
+                    "Swiggy Instamart",
+                    "BigBasket"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Sedan",
+                "safety_importance": [
+                    "driver verification",
+                    "SOS"
+                ],
+                "min_driver_rating": 4.3,
+                "price_sensitivity": "medium",
+                "preferred_travel_times": [
+                    "10AM\u201312PM",
+                    "9PM\u201311PM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560079",
+                    "destination_pincode": "560046"
+                },
+                "platform_preference": {
+                    "platform": "Uber",
+                    "reason": "Availability"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "home essentials",
+                    "electronics",
+                    "books"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9605\u2013\u20b91674",
+                    "beauty": "\u20b9150\u2013\u20b9621",
+                    "home_essentials": "\u20b9260\u2013\u20b91044"
+                },
+                "min_rating_threshold": 3.5,
+                "product_type_preference": "branded",
+                "delivery_speed": "1-day",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "Apple",
+                    "Zara",
+                    "Samsung"
+                ],
+                "personalized_recommendations": false,
+                "price_prediction_interest": true,
+                "return_policy_sensitivity": "medium"
+            }
+        }
+    },
+    {
+        "user_id": "ca8c9e37-9433-4228-822d-14fae5532cd6",
+        "name": "User_33",
+        "gender": "Female",
+        "age": 35,
+        "location": "Delhi",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "personal care",
+                    "fruits",
+                    "snacks"
+                ],
+                "preferred_delivery_time": "morning",
+                "price_sensitivity": "medium",
+                "discount_preference": true,
+                "delivery_speed_importance": "same-day",
+                "health_based_filters": [
+                    "gluten-free",
+                    "low-sugar"
+                ],
+                "usual_order_size": "2\u20133 people",
+                "platforms_used": [
+                    "BigBasket",
+                    "Zepto"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "SUV",
+                "safety_importance": [
+                    "driver verification",
+                    "helmet"
+                ],
+                "min_driver_rating": 4.7,
+                "price_sensitivity": "low",
+                "preferred_travel_times": [
+                    "8AM\u201310AM",
+                    "9PM\u201311PM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560036",
+                    "destination_pincode": "560098"
+                },
+                "platform_preference": {
+                    "platform": "Rapido",
+                    "reason": "Driver experience"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "fashion",
+                    "books",
+                    "home essentials"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9544\u2013\u20b91960",
+                    "beauty": "\u20b9371\u2013\u20b9693",
+                    "home_essentials": "\u20b9244\u2013\u20b91098"
+                },
+                "min_rating_threshold": 3.8,
+                "product_type_preference": "branded",
+                "delivery_speed": "no hurry",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "Apple",
+                    "Zara",
+                    "Mamaearth"
+                ],
+                "personalized_recommendations": false,
+                "price_prediction_interest": true,
+                "return_policy_sensitivity": "low"
+            }
+        }
+    },
+    {
+        "user_id": "253f7be6-cfba-44dd-b87c-f4a1ef09bcbb",
+        "name": "User_34",
+        "gender": "Female",
+        "age": 35,
+        "location": "Delhi",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "snacks",
+                    "frozen food",
+                    "beverages"
+                ],
+                "preferred_delivery_time": "evening",
+                "price_sensitivity": "medium",
+                "discount_preference": false,
+                "delivery_speed_importance": "same-day",
+                "health_based_filters": [
+                    "gluten-free",
+                    "low-fat"
+                ],
+                "usual_order_size": "single user",
+                "platforms_used": [
+                    "JioMart",
+                    "Zepto"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "SUV",
+                "safety_importance": [
+                    "SOS",
+                    "helmet"
+                ],
+                "min_driver_rating": 3.6,
+                "price_sensitivity": "low",
+                "preferred_travel_times": [
+                    "10AM\u201312PM",
+                    "8AM\u201310AM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560070",
+                    "destination_pincode": "560047"
+                },
+                "platform_preference": {
+                    "platform": "Ola",
+                    "reason": "Availability"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "home essentials",
+                    "fashion",
+                    "electronics"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9498\u2013\u20b91087",
+                    "beauty": "\u20b9310\u2013\u20b9806",
+                    "home_essentials": "\u20b9236\u2013\u20b91079"
+                },
+                "min_rating_threshold": 4.7,
+                "product_type_preference": "branded",
+                "delivery_speed": "1-day",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "Nike",
+                    "boAt",
+                    "Zara"
+                ],
+                "personalized_recommendations": false,
+                "price_prediction_interest": true,
+                "return_policy_sensitivity": "low"
+            }
+        }
+    },
+    {
+        "user_id": "29f97fc1-e82f-42fd-8c9e-a52727a3507b",
+        "name": "User_35",
+        "gender": "Female",
+        "age": 35,
+        "location": "Bangalore",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "dairy",
+                    "vegetables",
+                    "personal care"
+                ],
+                "preferred_delivery_time": "morning",
+                "price_sensitivity": "budget",
+                "discount_preference": true,
+                "delivery_speed_importance": "same-day",
+                "health_based_filters": [
+                    "organic",
+                    "gluten-free"
+                ],
+                "usual_order_size": "family",
+                "platforms_used": [
+                    "BigBasket",
+                    "JioMart"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Sedan",
+                "safety_importance": [
+                    "driver verification",
+                    "SOS"
+                ],
+                "min_driver_rating": 4.8,
+                "price_sensitivity": "medium",
+                "preferred_travel_times": [
+                    "9PM\u201311PM",
+                    "6PM\u20138PM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560046",
+                    "destination_pincode": "560048"
+                },
+                "platform_preference": {
+                    "platform": "Rapido",
+                    "reason": "Driver experience"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "beauty",
+                    "home essentials",
+                    "fashion"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9841\u2013\u20b91316",
+                    "beauty": "\u20b9492\u2013\u20b9617",
+                    "home_essentials": "\u20b9681\u2013\u20b9718"
+                },
+                "min_rating_threshold": 3.4,
+                "product_type_preference": "branded",
+                "delivery_speed": "3-day",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "boAt",
+                    "Zara",
+                    "Apple"
+                ],
+                "personalized_recommendations": false,
+                "price_prediction_interest": true,
+                "return_policy_sensitivity": "low"
+            }
+        }
+    },
+    {
+        "user_id": "320aae2a-3aec-43c0-9574-9b069c12534a",
+        "name": "User_36",
+        "gender": "Female",
+        "age": 27,
+        "location": "Delhi",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "dairy",
+                    "personal care",
+                    "snacks"
+                ],
+                "preferred_delivery_time": "evening",
+                "price_sensitivity": "budget",
+                "discount_preference": true,
+                "delivery_speed_importance": "same-day",
+                "health_based_filters": [
+                    "low-fat",
+                    "organic"
+                ],
+                "usual_order_size": "family",
+                "platforms_used": [
+                    "Swiggy Instamart",
+                    "Zepto"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "SUV",
+                "safety_importance": [
+                    "SOS",
+                    "driver verification"
+                ],
+                "min_driver_rating": 3.6,
+                "price_sensitivity": "high",
+                "preferred_travel_times": [
+                    "8AM\u201310AM",
+                    "6PM\u20138PM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560092",
+                    "destination_pincode": "560095"
+                },
+                "platform_preference": {
+                    "platform": "Ola",
+                    "reason": "Driver experience"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "books",
+                    "electronics",
+                    "home essentials"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9325\u2013\u20b91059",
+                    "beauty": "\u20b9140\u2013\u20b9831",
+                    "home_essentials": "\u20b9627\u2013\u20b9910"
+                },
+                "min_rating_threshold": 3.0,
+                "product_type_preference": "budget",
+                "delivery_speed": "no hurry",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "Nike",
+                    "Samsung",
+                    "Zara"
+                ],
+                "personalized_recommendations": false,
+                "price_prediction_interest": true,
+                "return_policy_sensitivity": "high"
+            }
+        }
+    },
+    {
+        "user_id": "dfdd0b38-bc21-4068-bf31-1e40731a1119",
+        "name": "User_37",
+        "gender": "Female",
+        "age": 27,
+        "location": "Hyderabad",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "fruits",
+                    "beverages",
+                    "snacks"
+                ],
+                "preferred_delivery_time": "night",
+                "price_sensitivity": "premium",
+                "discount_preference": false,
+                "delivery_speed_importance": "next-day",
+                "health_based_filters": [
+                    "gluten-free",
+                    "low-sugar"
+                ],
+                "usual_order_size": "family",
+                "platforms_used": [
+                    "BigBasket",
+                    "JioMart"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Sedan",
+                "safety_importance": [
+                    "driver verification",
+                    "SOS"
+                ],
+                "min_driver_rating": 4.5,
+                "price_sensitivity": "low",
+                "preferred_travel_times": [
+                    "10AM\u201312PM",
+                    "8AM\u201310AM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560085",
+                    "destination_pincode": "560049"
+                },
+                "platform_preference": {
+                    "platform": "Uber",
+                    "reason": "Clean vehicles"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "books",
+                    "beauty",
+                    "home essentials"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9349\u2013\u20b91168",
+                    "beauty": "\u20b9123\u2013\u20b9764",
+                    "home_essentials": "\u20b9555\u2013\u20b91076"
+                },
+                "min_rating_threshold": 4.2,
+                "product_type_preference": "branded",
+                "delivery_speed": "3-day",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "Zara",
+                    "Samsung",
+                    "Mamaearth"
+                ],
+                "personalized_recommendations": false,
+                "price_prediction_interest": false,
+                "return_policy_sensitivity": "medium"
+            }
+        }
+    },
+    {
+        "user_id": "2e18fff7-8376-4b2c-90de-41e43bf7ed1c",
+        "name": "User_38",
+        "gender": "Female",
+        "age": 30,
+        "location": "Mumbai",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "frozen food",
+                    "vegetables",
+                    "snacks"
+                ],
+                "preferred_delivery_time": "night",
+                "price_sensitivity": "medium",
+                "discount_preference": true,
+                "delivery_speed_importance": "next-day",
+                "health_based_filters": [
+                    "gluten-free",
+                    "low-fat"
+                ],
+                "usual_order_size": "single user",
+                "platforms_used": [
+                    "Zepto",
+                    "BigBasket"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "SUV",
+                "safety_importance": [
+                    "helmet",
+                    "driver verification"
+                ],
+                "min_driver_rating": 4.6,
+                "price_sensitivity": "low",
+                "preferred_travel_times": [
+                    "6PM\u20138PM",
+                    "10AM\u201312PM"
+                ],
+                "travel_mode": "alone",
+                "usual_route": {
+                    "source_pincode": "560096",
+                    "destination_pincode": "560093"
+                },
+                "platform_preference": {
+                    "platform": "NammaYatri",
+                    "reason": "Better pricing"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "books",
+                    "home essentials",
+                    "fashion"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9830\u2013\u20b91498",
+                    "beauty": "\u20b9195\u2013\u20b9725",
+                    "home_essentials": "\u20b9327\u2013\u20b91488"
+                },
+                "min_rating_threshold": 4.5,
+                "product_type_preference": "budget",
+                "delivery_speed": "3-day",
+                "availability_flexibility": true,
+                "wishlist_brands": [
+                    "Apple",
+                    "Zara",
+                    "boAt"
+                ],
+                "personalized_recommendations": true,
+                "price_prediction_interest": true,
+                "return_policy_sensitivity": "medium"
+            }
+        }
+    },
+    {
+        "user_id": "048be4f1-d498-4f6a-b465-dc0979ef79cc",
+        "name": "User_39",
+        "gender": "Female",
+        "age": 29,
+        "location": "Delhi",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "frozen food",
+                    "dairy",
+                    "fruits"
+                ],
+                "preferred_delivery_time": "night",
+                "price_sensitivity": "premium",
+                "discount_preference": true,
+                "delivery_speed_importance": "same-day",
+                "health_based_filters": [
+                    "gluten-free",
+                    "organic"
+                ],
+                "usual_order_size": "single user",
+                "platforms_used": [
+                    "BigBasket",
+                    "Zepto"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Sedan",
+                "safety_importance": [
+                    "helmet",
+                    "SOS"
+                ],
+                "min_driver_rating": 3.9,
+                "price_sensitivity": "low",
+                "preferred_travel_times": [
+                    "10AM\u201312PM",
+                    "9PM\u201311PM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560061",
+                    "destination_pincode": "560017"
+                },
+                "platform_preference": {
+                    "platform": "Uber",
+                    "reason": "Clean vehicles"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "electronics",
+                    "beauty",
+                    "books"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9376\u2013\u20b91377",
+                    "beauty": "\u20b9309\u2013\u20b9636",
+                    "home_essentials": "\u20b9252\u2013\u20b9822"
+                },
+                "min_rating_threshold": 3.9,
+                "product_type_preference": "branded",
+                "delivery_speed": "1-day",
+                "availability_flexibility": true,
+                "wishlist_brands": [
+                    "Zara",
+                    "boAt",
+                    "Mamaearth"
+                ],
+                "personalized_recommendations": true,
+                "price_prediction_interest": false,
+                "return_policy_sensitivity": "low"
+            }
+        }
+    },
+    {
+        "user_id": "d10dda25-60db-4092-8192-373f1b7e8e2f",
+        "name": "User_40",
+        "gender": "Female",
+        "age": 28,
+        "location": "Mumbai",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "frozen food",
+                    "personal care",
+                    "beverages"
+                ],
+                "preferred_delivery_time": "morning",
+                "price_sensitivity": "budget",
+                "discount_preference": false,
+                "delivery_speed_importance": "next-day",
+                "health_based_filters": [
+                    "low-sugar",
+                    "organic"
+                ],
+                "usual_order_size": "family",
+                "platforms_used": [
+                    "JioMart",
+                    "BigBasket"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "SUV",
+                "safety_importance": [
+                    "SOS",
+                    "helmet"
+                ],
+                "min_driver_rating": 4.8,
+                "price_sensitivity": "high",
+                "preferred_travel_times": [
+                    "9PM\u201311PM",
+                    "6PM\u20138PM"
+                ],
+                "travel_mode": "alone",
+                "usual_route": {
+                    "source_pincode": "560093",
+                    "destination_pincode": "560092"
+                },
+                "platform_preference": {
+                    "platform": "Rapido",
+                    "reason": "Better pricing"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "fashion",
+                    "home essentials",
+                    "beauty"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9854\u2013\u20b91515",
+                    "beauty": "\u20b9129\u2013\u20b9834",
+                    "home_essentials": "\u20b9239\u2013\u20b91201"
+                },
+                "min_rating_threshold": 4.0,
+                "product_type_preference": "budget",
+                "delivery_speed": "3-day",
+                "availability_flexibility": true,
+                "wishlist_brands": [
+                    "Nike",
+                    "Apple",
+                    "Mamaearth"
+                ],
+                "personalized_recommendations": true,
+                "price_prediction_interest": true,
+                "return_policy_sensitivity": "high"
+            }
+        }
+    },
+    {
+        "user_id": "3418c6b9-4684-4380-88f7-043b2cd54563",
+        "name": "User_41",
+        "gender": "Female",
+        "age": 31,
+        "location": "Bangalore",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "dairy",
+                    "personal care",
+                    "snacks"
+                ],
+                "preferred_delivery_time": "night",
+                "price_sensitivity": "premium",
+                "discount_preference": false,
+                "delivery_speed_importance": "next-day",
+                "health_based_filters": [
+                    "low-fat",
+                    "low-sugar"
+                ],
+                "usual_order_size": "2\u20133 people",
+                "platforms_used": [
+                    "Swiggy Instamart",
+                    "BigBasket"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Sedan",
+                "safety_importance": [
+                    "helmet",
+                    "SOS"
+                ],
+                "min_driver_rating": 4.9,
+                "price_sensitivity": "high",
+                "preferred_travel_times": [
+                    "9PM\u201311PM",
+                    "8AM\u201310AM"
+                ],
+                "travel_mode": "alone",
+                "usual_route": {
+                    "source_pincode": "560078",
+                    "destination_pincode": "560098"
+                },
+                "platform_preference": {
+                    "platform": "Rapido",
+                    "reason": "Better pricing"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "beauty",
+                    "fashion",
+                    "electronics"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9517\u2013\u20b91107",
+                    "beauty": "\u20b9346\u2013\u20b9677",
+                    "home_essentials": "\u20b9221\u2013\u20b91131"
+                },
+                "min_rating_threshold": 3.7,
+                "product_type_preference": "budget",
+                "delivery_speed": "no hurry",
+                "availability_flexibility": true,
+                "wishlist_brands": [
+                    "Nike",
+                    "Apple",
+                    "Zara"
+                ],
+                "personalized_recommendations": true,
+                "price_prediction_interest": false,
+                "return_policy_sensitivity": "medium"
+            }
+        }
+    },
+    {
+        "user_id": "659c099d-7645-4cd7-aef0-478b3fdca41c",
+        "name": "User_42",
+        "gender": "Female",
+        "age": 29,
+        "location": "Hyderabad",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "dairy",
+                    "frozen food",
+                    "vegetables"
+                ],
+                "preferred_delivery_time": "night",
+                "price_sensitivity": "medium",
+                "discount_preference": true,
+                "delivery_speed_importance": "same-day",
+                "health_based_filters": [
+                    "gluten-free",
+                    "organic"
+                ],
+                "usual_order_size": "single user",
+                "platforms_used": [
+                    "JioMart",
+                    "BigBasket"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "SUV",
+                "safety_importance": [
+                    "driver verification",
+                    "SOS"
+                ],
+                "min_driver_rating": 4.1,
+                "price_sensitivity": "medium",
+                "preferred_travel_times": [
+                    "6PM\u20138PM",
+                    "10AM\u201312PM"
+                ],
+                "travel_mode": "alone",
+                "usual_route": {
+                    "source_pincode": "560023",
+                    "destination_pincode": "560012"
+                },
+                "platform_preference": {
+                    "platform": "Uber",
+                    "reason": "Better pricing"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "fashion",
+                    "home essentials",
+                    "beauty"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9526\u2013\u20b91678",
+                    "beauty": "\u20b9131\u2013\u20b9509",
+                    "home_essentials": "\u20b9353\u2013\u20b91331"
+                },
+                "min_rating_threshold": 3.4,
+                "product_type_preference": "budget",
+                "delivery_speed": "3-day",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "boAt",
+                    "Zara",
+                    "Apple"
+                ],
+                "personalized_recommendations": false,
+                "price_prediction_interest": true,
+                "return_policy_sensitivity": "high"
+            }
+        }
+    },
+    {
+        "user_id": "d8f257bd-4de1-441a-a336-676ea08a88f2",
+        "name": "User_43",
+        "gender": "Female",
+        "age": 35,
+        "location": "Bangalore",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "vegetables",
+                    "dairy",
+                    "frozen food"
+                ],
+                "preferred_delivery_time": "evening",
+                "price_sensitivity": "medium",
+                "discount_preference": true,
+                "delivery_speed_importance": "next-day",
+                "health_based_filters": [
+                    "gluten-free",
+                    "low-sugar"
+                ],
+                "usual_order_size": "2\u20133 people",
+                "platforms_used": [
+                    "BigBasket",
+                    "Swiggy Instamart"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Bike",
+                "safety_importance": [
+                    "SOS",
+                    "helmet"
+                ],
+                "min_driver_rating": 3.7,
+                "price_sensitivity": "low",
+                "preferred_travel_times": [
+                    "8AM\u201310AM",
+                    "6PM\u20138PM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560087",
+                    "destination_pincode": "560064"
+                },
+                "platform_preference": {
+                    "platform": "Uber",
+                    "reason": "Availability"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "fashion",
+                    "home essentials",
+                    "books"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9943\u2013\u20b91519",
+                    "beauty": "\u20b9416\u2013\u20b9627",
+                    "home_essentials": "\u20b9451\u2013\u20b9826"
+                },
+                "min_rating_threshold": 4.2,
+                "product_type_preference": "branded",
+                "delivery_speed": "3-day",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "Samsung",
+                    "boAt",
+                    "Nike"
+                ],
+                "personalized_recommendations": false,
+                "price_prediction_interest": true,
+                "return_policy_sensitivity": "low"
+            }
+        }
+    },
+    {
+        "user_id": "c6cb94af-d7dc-4825-8ba7-0a381d8c56ac",
+        "name": "User_44",
+        "gender": "Female",
+        "age": 28,
+        "location": "Chennai",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "snacks",
+                    "vegetables",
+                    "personal care"
+                ],
+                "preferred_delivery_time": "morning",
+                "price_sensitivity": "budget",
+                "discount_preference": false,
+                "delivery_speed_importance": "same-day",
+                "health_based_filters": [
+                    "gluten-free",
+                    "organic"
+                ],
+                "usual_order_size": "single user",
+                "platforms_used": [
+                    "JioMart",
+                    "Swiggy Instamart"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Auto",
+                "safety_importance": [
+                    "SOS",
+                    "helmet"
+                ],
+                "min_driver_rating": 3.6,
+                "price_sensitivity": "high",
+                "preferred_travel_times": [
+                    "8AM\u201310AM",
+                    "10AM\u201312PM"
+                ],
+                "travel_mode": "alone",
+                "usual_route": {
+                    "source_pincode": "560061",
+                    "destination_pincode": "560098"
+                },
+                "platform_preference": {
+                    "platform": "Ola",
+                    "reason": "Better pricing"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "beauty",
+                    "fashion",
+                    "books"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9952\u2013\u20b91144",
+                    "beauty": "\u20b9332\u2013\u20b9770",
+                    "home_essentials": "\u20b9621\u2013\u20b91011"
+                },
+                "min_rating_threshold": 4.4,
+                "product_type_preference": "budget",
+                "delivery_speed": "no hurry",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "Samsung",
+                    "Nike",
+                    "Mamaearth"
+                ],
+                "personalized_recommendations": false,
+                "price_prediction_interest": true,
+                "return_policy_sensitivity": "high"
+            }
+        }
+    },
+    {
+        "user_id": "1d00f3fc-d812-4ee3-b1aa-10d463f8ed95",
+        "name": "User_45",
+        "gender": "Female",
+        "age": 30,
+        "location": "Chennai",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "beverages",
+                    "personal care",
+                    "vegetables"
+                ],
+                "preferred_delivery_time": "evening",
+                "price_sensitivity": "budget",
+                "discount_preference": true,
+                "delivery_speed_importance": "next-day",
+                "health_based_filters": [
+                    "low-sugar",
+                    "gluten-free"
+                ],
+                "usual_order_size": "family",
+                "platforms_used": [
+                    "BigBasket",
+                    "Zepto"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "SUV",
+                "safety_importance": [
+                    "driver verification",
+                    "SOS"
+                ],
+                "min_driver_rating": 3.8,
+                "price_sensitivity": "medium",
+                "preferred_travel_times": [
+                    "6PM\u20138PM",
+                    "9PM\u201311PM"
+                ],
+                "travel_mode": "alone",
+                "usual_route": {
+                    "source_pincode": "560091",
+                    "destination_pincode": "560080"
+                },
+                "platform_preference": {
+                    "platform": "Ola",
+                    "reason": "Availability"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "beauty",
+                    "electronics",
+                    "home essentials"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9415\u2013\u20b91490",
+                    "beauty": "\u20b9196\u2013\u20b9750",
+                    "home_essentials": "\u20b9447\u2013\u20b91180"
+                },
+                "min_rating_threshold": 4.1,
+                "product_type_preference": "budget",
+                "delivery_speed": "1-day",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "Apple",
+                    "Zara",
+                    "Mamaearth"
+                ],
+                "personalized_recommendations": true,
+                "price_prediction_interest": true,
+                "return_policy_sensitivity": "low"
+            }
+        }
+    },
+    {
+        "user_id": "6a77ebe3-34af-46b7-92a6-9692a3118510",
+        "name": "User_46",
+        "gender": "Female",
+        "age": 32,
+        "location": "Delhi",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "vegetables",
+                    "personal care",
+                    "beverages"
+                ],
+                "preferred_delivery_time": "evening",
+                "price_sensitivity": "premium",
+                "discount_preference": true,
+                "delivery_speed_importance": "next-day",
+                "health_based_filters": [
+                    "organic",
+                    "low-sugar"
+                ],
+                "usual_order_size": "2\u20133 people",
+                "platforms_used": [
+                    "BigBasket",
+                    "JioMart"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Auto",
+                "safety_importance": [
+                    "helmet",
+                    "SOS"
+                ],
+                "min_driver_rating": 4.6,
+                "price_sensitivity": "low",
+                "preferred_travel_times": [
+                    "8AM\u201310AM",
+                    "10AM\u201312PM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560026",
+                    "destination_pincode": "560053"
+                },
+                "platform_preference": {
+                    "platform": "Ola",
+                    "reason": "Driver experience"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "fashion",
+                    "electronics",
+                    "books"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9493\u2013\u20b91804",
+                    "beauty": "\u20b9207\u2013\u20b9712",
+                    "home_essentials": "\u20b9580\u2013\u20b91061"
+                },
+                "min_rating_threshold": 4.5,
+                "product_type_preference": "budget",
+                "delivery_speed": "3-day",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "Mamaearth",
+                    "Apple",
+                    "Samsung"
+                ],
+                "personalized_recommendations": true,
+                "price_prediction_interest": true,
+                "return_policy_sensitivity": "low"
+            }
+        }
+    },
+    {
+        "user_id": "b12a7eb0-e6db-4eea-90a8-433e0cffd718",
+        "name": "User_47",
+        "gender": "Female",
+        "age": 27,
+        "location": "Bangalore",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "fruits",
+                    "personal care",
+                    "snacks"
+                ],
+                "preferred_delivery_time": "night",
+                "price_sensitivity": "medium",
+                "discount_preference": false,
+                "delivery_speed_importance": "same-day",
+                "health_based_filters": [
+                    "low-fat",
+                    "organic"
+                ],
+                "usual_order_size": "single user",
+                "platforms_used": [
+                    "JioMart",
+                    "Swiggy Instamart"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Auto",
+                "safety_importance": [
+                    "driver verification",
+                    "helmet"
+                ],
+                "min_driver_rating": 3.5,
+                "price_sensitivity": "medium",
+                "preferred_travel_times": [
+                    "9PM\u201311PM",
+                    "8AM\u201310AM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560050",
+                    "destination_pincode": "560049"
+                },
+                "platform_preference": {
+                    "platform": "Uber",
+                    "reason": "Driver experience"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "electronics",
+                    "books",
+                    "fashion"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9569\u2013\u20b91198",
+                    "beauty": "\u20b9140\u2013\u20b9791",
+                    "home_essentials": "\u20b9452\u2013\u20b9839"
+                },
+                "min_rating_threshold": 3.2,
+                "product_type_preference": "branded",
+                "delivery_speed": "no hurry",
+                "availability_flexibility": true,
+                "wishlist_brands": [
+                    "Zara",
+                    "Samsung",
+                    "Nike"
+                ],
+                "personalized_recommendations": false,
+                "price_prediction_interest": false,
+                "return_policy_sensitivity": "low"
+            }
+        }
+    },
+    {
+        "user_id": "0f4e0b7b-6a0f-4778-a285-75325a49d253",
+        "name": "User_48",
+        "gender": "Female",
+        "age": 31,
+        "location": "Bangalore",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "snacks",
+                    "dairy",
+                    "personal care"
+                ],
+                "preferred_delivery_time": "night",
+                "price_sensitivity": "budget",
+                "discount_preference": false,
+                "delivery_speed_importance": "next-day",
+                "health_based_filters": [
+                    "low-sugar",
+                    "gluten-free"
+                ],
+                "usual_order_size": "2\u20133 people",
+                "platforms_used": [
+                    "Swiggy Instamart",
+                    "BigBasket"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Sedan",
+                "safety_importance": [
+                    "SOS",
+                    "driver verification"
+                ],
+                "min_driver_rating": 4.9,
+                "price_sensitivity": "medium",
+                "preferred_travel_times": [
+                    "6PM\u20138PM",
+                    "9PM\u201311PM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560076",
+                    "destination_pincode": "560079"
+                },
+                "platform_preference": {
+                    "platform": "Ola",
+                    "reason": "Clean vehicles"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "books",
+                    "electronics",
+                    "home essentials"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9839\u2013\u20b91371",
+                    "beauty": "\u20b9177\u2013\u20b9537",
+                    "home_essentials": "\u20b9677\u2013\u20b9974"
+                },
+                "min_rating_threshold": 3.4,
+                "product_type_preference": "branded",
+                "delivery_speed": "3-day",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "Nike",
+                    "Apple",
+                    "Zara"
+                ],
+                "personalized_recommendations": true,
+                "price_prediction_interest": true,
+                "return_policy_sensitivity": "high"
+            }
+        }
+    },
+    {
+        "user_id": "9f9f6325-5b0f-4b1e-9810-bab5baae5632",
+        "name": "User_49",
+        "gender": "Female",
+        "age": 32,
+        "location": "Bangalore",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "personal care",
+                    "dairy",
+                    "fruits"
+                ],
+                "preferred_delivery_time": "morning",
+                "price_sensitivity": "medium",
+                "discount_preference": true,
+                "delivery_speed_importance": "same-day",
+                "health_based_filters": [
+                    "low-sugar",
+                    "low-fat"
+                ],
+                "usual_order_size": "2\u20133 people",
+                "platforms_used": [
+                    "BigBasket",
+                    "Zepto"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Bike",
+                "safety_importance": [
+                    "driver verification",
+                    "SOS"
+                ],
+                "min_driver_rating": 4.1,
+                "price_sensitivity": "high",
+                "preferred_travel_times": [
+                    "6PM\u20138PM",
+                    "8AM\u201310AM"
+                ],
+                "travel_mode": "alone",
+                "usual_route": {
+                    "source_pincode": "560084",
+                    "destination_pincode": "560045"
+                },
+                "platform_preference": {
+                    "platform": "Ola",
+                    "reason": "Driver experience"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "books",
+                    "beauty",
+                    "home essentials"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9744\u2013\u20b91246",
+                    "beauty": "\u20b9485\u2013\u20b9627",
+                    "home_essentials": "\u20b9542\u2013\u20b91053"
+                },
+                "min_rating_threshold": 3.9,
+                "product_type_preference": "branded",
+                "delivery_speed": "no hurry",
+                "availability_flexibility": false,
+                "wishlist_brands": [
+                    "Apple",
+                    "Zara",
+                    "Mamaearth"
+                ],
+                "personalized_recommendations": true,
+                "price_prediction_interest": false,
+                "return_policy_sensitivity": "low"
+            }
+        }
+    },
+    {
+        "user_id": "817dba67-42d4-4432-b2c4-caf5f99fe9c4",
+        "name": "User_50",
+        "gender": "Female",
+        "age": 34,
+        "location": "Mumbai",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": [
+                    "snacks",
+                    "beverages",
+                    "personal care"
+                ],
+                "preferred_delivery_time": "morning",
+                "price_sensitivity": "budget",
+                "discount_preference": true,
+                "delivery_speed_importance": "same-day",
+                "health_based_filters": [
+                    "gluten-free",
+                    "low-sugar"
+                ],
+                "usual_order_size": "single user",
+                "platforms_used": [
+                    "Zepto",
+                    "JioMart"
+                ]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Auto",
+                "safety_importance": [
+                    "helmet",
+                    "SOS"
+                ],
+                "min_driver_rating": 5.0,
+                "price_sensitivity": "high",
+                "preferred_travel_times": [
+                    "9PM\u201311PM",
+                    "6PM\u20138PM"
+                ],
+                "travel_mode": "with family/friends",
+                "usual_route": {
+                    "source_pincode": "560076",
+                    "destination_pincode": "560068"
+                },
+                "platform_preference": {
+                    "platform": "Ola",
+                    "reason": "Availability"
+                }
+            },
+            "ecommerce_apps": {
+                "preferred_categories": [
+                    "beauty",
+                    "fashion",
+                    "books"
+                ],
+                "price_range_filters": {
+                    "fashion": "\u20b9406\u2013\u20b91328",
+                    "beauty": "\u20b9156\u2013\u20b9858",
+                    "home_essentials": "\u20b9672\u2013\u20b91215"
+                },
+                "min_rating_threshold": 5.0,
+                "product_type_preference": "budget",
+                "delivery_speed": "1-day",
+                "availability_flexibility": true,
+                "wishlist_brands": [
+                    "Mamaearth",
+                    "Apple",
+                    "Nike"
+                ],
+                "personalized_recommendations": false,
+                "price_prediction_interest": false,
+                "return_policy_sensitivity": "low"
+            }
+        }
+    },
+    {
+        "user_id": "a1b2c3d4-e5f6-7890-1234-5678abcdef12",
+        "name": "User_51",
+        "gender": "Male",
+        "age": 28,
+        "location": "Bangalore",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": ["beverages", "snacks", "ready to eat"],
+                "preferred_delivery_time": "evening",
+                "price_sensitivity": "premium",
+                "discount_preference": false,
+                "delivery_speed_importance": "express",
+                "health_based_filters": ["organic", "sugar-free"],
+                "usual_order_size": "1-2 people",
+                "platforms_used": ["Swiggy Instamart", "Blinkit"]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Bike",
+                "safety_importance": ["helmet", "mask"],
+                "min_driver_rating": 4.5,
+                "price_sensitivity": "low",
+                "preferred_travel_times": ["8AM-10AM", "6PM-8PM"],
+                "travel_mode": "alone",
+                "usual_route": {
+                    "source_pincode": "560001",
+                    "destination_pincode": "560034"
+                },
+                "platform_preference": {
+                    "platform": "Rapido",
+                    "reason": "Quick pickups"
+                }
+            }
+        }
+    },
+    {
+        "user_id": "b2c3d4e5-f6a7-8901-2345-6789abcdef01",
+        "name": "User_52",
+        "gender": "Female",
+        "age": 35,
+        "location": "Mumbai",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": ["fruits", "vegetables", "dairy"],
+                "preferred_delivery_time": "morning",
+                "price_sensitivity": "budget",
+                "discount_preference": true,
+                "delivery_speed_importance": "standard",
+                "health_based_filters": ["organic", "fresh"],
+                "usual_order_size": "3-4 people",
+                "platforms_used": ["BigBasket", "JioMart"]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Sedan",
+                "safety_importance": ["women driver", "share location"],
+                "min_driver_rating": 4.7,
+                "price_sensitivity": "medium",
+                "preferred_travel_times": ["9AM-11AM", "7PM-9PM"],
+                "travel_mode": "with family",
+                "usual_route": {
+                    "source_pincode": "400001",
+                    "destination_pincode": "400053"
+                },
+                "platform_preference": {
+                    "platform": "Uber",
+                    "reason": "Family safety features"
+                }
+            }
+        }
+    },
+    {
+        "user_id": "c3d4e5f6-a7b8-9012-3456-7890abcdef12",
+        "name": "User_53",
+        "gender": "Non-binary",
+        "age": 26,
+        "location": "Delhi",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": ["beverages", "snacks", "international cuisine"],
+                "preferred_delivery_time": "afternoon",
+                "price_sensitivity": "premium",
+                "discount_preference": true,
+                "delivery_speed_importance": "express",
+                "health_based_filters": ["vegan", "gluten-free"],
+                "usual_order_size": "1-2 people",
+                "platforms_used": ["Zepto", "Blinkit"]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Auto",
+                "safety_importance": ["verified drivers", "emergency button"],
+                "min_driver_rating": 4.0,
+                "price_sensitivity": "high",
+                "preferred_travel_times": ["10AM-12PM", "4PM-6PM"],
+                "travel_mode": "alone",
+                "usual_route": {
+                    "source_pincode": "110001",
+                    "destination_pincode": "110020"
+                },
+                "platform_preference": {
+                    "platform": "Ola",
+                    "reason": "Auto availability"
+                }
+            }
+        }
+    },
+    {
+        "user_id": "d4e5f6a7-b8c9-0123-4567-8901abcdef12",
+        "name": "User_54",
+        "gender": "Male",
+        "age": 31,
+        "location": "Chennai",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": ["meat", "seafood", "spices"],
+                "preferred_delivery_time": "evening",
+                "price_sensitivity": "medium",
+                "discount_preference": true,
+                "delivery_speed_importance": "standard",
+                "health_based_filters": ["fresh", "local"],
+                "usual_order_size": "2-3 people",
+                "platforms_used": ["BigBasket", "Amazon Fresh"]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "SUV",
+                "safety_importance": ["car condition", "driver rating"],
+                "min_driver_rating": 4.2,
+                "price_sensitivity": "medium",
+                "preferred_travel_times": ["8AM-10AM", "6PM-8PM"],
+                "travel_mode": "with colleagues",
+                "usual_route": {
+                    "source_pincode": "600001",
+                    "destination_pincode": "600028"
+                },
+                "platform_preference": {
+                    "platform": "Uber",
+                    "reason": "Corporate account"
+                }
+            }
+        }
+    },
+    {
+        "user_id": "e5f6a7b8-c9d0-1234-5678-9012abcdef12",
+        "name": "User_55",
+        "gender": "Female",
+        "age": 29,
+        "location": "Pune",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": ["bakery", "dairy", "breakfast"],
+                "preferred_delivery_time": "morning",
+                "price_sensitivity": "budget",
+                "discount_preference": true,
+                "delivery_speed_importance": "standard",
+                "health_based_filters": ["sugar-free", "low-fat"],
+                "usual_order_size": "1-2 people",
+                "platforms_used": ["Dunzo", "JioMart"]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Hatchback",
+                "safety_importance": ["women driver", "share ride details"],
+                "min_driver_rating": 4.6,
+                "price_sensitivity": "high",
+                "preferred_travel_times": ["9AM-11AM", "7PM-9PM"],
+                "travel_mode": "alone",
+                "usual_route": {
+                    "source_pincode": "411001",
+                    "destination_pincode": "411057"
+                },
+                "platform_preference": {
+                    "platform": "Ola",
+                    "reason": "Women's safety features"
+                }
+            }
+        }
+    },
+    {
+        "user_id": "f6a7b8c9-d0e1-2345-6789-0123abcdef12",
+        "name": "User_56",
+        "gender": "Male",
+        "age": 33,
+        "location": "Hyderabad",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": ["meat", "spices", "rice"],
+                "preferred_delivery_time": "evening",
+                "price_sensitivity": "premium",
+                "discount_preference": false,
+                "delivery_speed_importance": "express",
+                "health_based_filters": ["organic", "fresh"],
+                "usual_order_size": "3-4 people",
+                "platforms_used": ["Swiggy Instamart", "BigBasket"]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Sedan",
+                "safety_importance": ["driver verification", "car condition"],
+                "min_driver_rating": 4.3,
+                "price_sensitivity": "low",
+                "preferred_travel_times": ["8AM-10AM", "7PM-9PM"],
+                "travel_mode": "with family",
+                "usual_route": {
+                    "source_pincode": "500001",
+                    "destination_pincode": "500081"
+                },
+                "platform_preference": {
+                    "platform": "Uber",
+                    "reason": "Family rides"
+                }
+            }
+        }
+    },
+    {
+        "user_id": "a7b8c9d0-e1f2-3456-7890-1234abcdef12",
+        "name": "User_57",
+        "gender": "Female",
+        "age": 27,
+        "location": "Bangalore",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": ["salads", "juices", "healthy snacks"],
+                "preferred_delivery_time": "afternoon",
+                "price_sensitivity": "premium",
+                "discount_preference": true,
+                "delivery_speed_importance": "express",
+                "health_based_filters": ["organic", "vegan", "gluten-free"],
+                "usual_order_size": "1-2 people",
+                "platforms_used": ["Zepto", "Dunzo"]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Bike",
+                "safety_importance": ["helmet", "mask"],
+                "min_driver_rating": 4.8,
+                "price_sensitivity": "high",
+                "preferred_travel_times": ["10AM-12PM", "6PM-8PM"],
+                "travel_mode": "alone",
+                "usual_route": {
+                    "source_pincode": "560001",
+                    "destination_pincode": "560034"
+                },
+                "platform_preference": {
+                    "platform": "Rapido",
+                    "reason": "Quick commutes"
+                }
+            }
+        }
+    },
+    {
+        "user_id": "b8c9d0e1-f2a3-4567-8901-2345abcdef12",
+        "name": "User_58",
+        "gender": "Non-binary",
+        "age": 30,
+        "location": "Mumbai",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": ["beverages", "snacks", "ready to eat"],
+                "preferred_delivery_time": "night",
+                "price_sensitivity": "budget",
+                "discount_preference": true,
+                "delivery_speed_importance": "standard",
+                "health_based_filters": ["vegetarian", "eggless"],
+                "usual_order_size": "2-3 people",
+                "platforms_used": ["Swiggy Instamart", "Blinkit"]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Auto",
+                "safety_importance": ["verified drivers", "emergency button"],
+                "min_driver_rating": 4.0,
+                "price_sensitivity": "medium",
+                "preferred_travel_times": ["9AM-11AM", "7PM-9PM"],
+                "travel_mode": "with friends",
+                "usual_route": {
+                    "source_pincode": "400001",
+                    "destination_pincode": "400053"
+                },
+                "platform_preference": {
+                    "platform": "Ola",
+                    "reason": "Auto availability"
+                }
+            }
+        }
+    },
+    {
+        "user_id": "c9d0e1f2-a3b4-5678-9012-3456abcdef12",
+        "name": "User_59",
+        "gender": "Male",
+        "age": 34,
+        "location": "Delhi",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": ["meat", "poultry", "seafood"],
+                "preferred_delivery_time": "evening",
+                "price_sensitivity": "premium",
+                "discount_preference": false,
+                "delivery_speed_importance": "express",
+                "health_based_filters": ["fresh", "organic"],
+                "usual_order_size": "3-4 people",
+                "platforms_used": ["BigBasket", "Amazon Fresh"]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "SUV",
+                "safety_importance": ["car condition", "driver rating"],
+                "min_driver_rating": 4.4,
+                "price_sensitivity": "low",
+                "preferred_travel_times": ["8AM-10AM", "6PM-8PM"],
+                "travel_mode": "with family",
+                "usual_route": {
+                    "source_pincode": "110001",
+                    "destination_pincode": "110020"
+                },
+                "platform_preference": {
+                    "platform": "Uber",
+                    "reason": "Family safety"
+                }
+            }
+        }
+    },
+    {
+        "user_id": "d0e1f2a3-b4c5-6789-0123-4567abcdef12",
+        "name": "User_60",
+        "gender": "Female",
+        "age": 26,
+        "location": "Chennai",
+        "preferences": {
+            "grocery_apps": {
+                "preferred_categories": ["bakery", "dairy", "breakfast"],
+                "preferred_delivery_time": "morning",
+                "price_sensitivity": "budget",
+                "discount_preference": true,
+                "delivery_speed_importance": "standard",
+                "health_based_filters": ["sugar-free", "low-fat"],
+                "usual_order_size": "1-2 people",
+                "platforms_used": ["JioMart", "Dunzo"]
+            },
+            "ride_apps": {
+                "preferred_ride_type": "Hatchback",
+                "safety_importance": ["women driver", "share ride details"],
+                "min_driver_rating": 4.7,
+                "price_sensitivity": "high",
+                "preferred_travel_times": ["9AM-11AM", "7PM-9PM"],
+                "travel_mode": "alone",
+                "usual_route": {
+                    "source_pincode": "600001",
+                    "destination_pincode": "600028"
+                },
+                "platform_preference": {
+                    "platform": "Ola",
+                    "reason": "Women's safety features"
+                }
+            }
+        }
+    }
+]
