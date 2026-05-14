@@ -100,7 +100,6 @@ git push
 
 ## Future Improvements
 
-- Add authentication system
 - Improve product recommendation logic
 - Add backend integration
 - Deploy application online
